@@ -3,7 +3,7 @@
 <div id="header" align="right">
   <h1 style="font-size: 50px;"><b> Hi there, I'm Bo Yuan!</b></h1>
   <p style="font-size: 18px; line-height: 1.6; font-weight: 400;"> 
-    I am a highly motivated computer science student with a passion for **software engineering** and **web development**. I am **seeking an internship** that provides a professional working environment where I can further develop my extensive experience and knowledge while working dedicatedly for the company. I am an **effective problem solver** with **excellent communication skills**, aiming to contribute my technical skills and drive high-quality results as a **web development or full-stack developer intern**.<br><br>
+    I am a highly motivated computer science student with a passion for <b>software engineering</b> and <b>web development</b>. I am <b>seeking an internship</b> that provides a professional working environment where I can further develop my extensive experience and knowledge while working dedicatedly for the company. I am an <b>effective problem solver</b> with <b>excellent communication skills</b>, aiming to contribute my technical skills and drive high-quality results as a <b>web development or full-stack developer intern</b>.<br><br>
     <strong>(Internship Period: Late July 2024 – October 2024)</strong>
   </p>
 </div>
