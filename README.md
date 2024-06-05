@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 👯 I’m looking to collaborate on **New and exciting web development projects**
+- 👯 I’m looking to collaborate on **new and exciting web development projects**
 
-- 🤝 I’m looking for help with **Improving my frontend development skills**
+- 🤝 I’m looking for help with **improving my frontend development skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/boyuan0815?tab=repositories](https://github.com/boyuan0815?tab=repositories)
 
