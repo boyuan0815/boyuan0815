@@ -5,10 +5,11 @@
     I am a highly motivated computer science student with a passion for <br>
     software engineering and web development. <br>
     I am seeking for an internship that provides a professional working <br>
-    environment where I can further develop my <br>
-    extensive experience and knowledge while working dedicatedly for the company. <br>
-    I am an effective problem solver with excellent communication skills, aiming <br>
-    to contribute my technical skills and drive <br>
+    environment where <br>
+    I can further develop my extensive experience and knowledge while <br> 
+    working dedicatedly for the company. <br>
+    I am an effective problem solver with excellent communication skills, aiming to contribute <br>
+    my technical skills and drive <br>
     high-quality results as a web development or full-stack developer intern.<br>
     
     (Internship Period: Late July 2024 – October 2024)
