@@ -25,7 +25,7 @@
   
 - 📫 How to reach me: **limboyuanlby@gmail.com**
   
-- 📄 Know about my experiences: <a style="font-weight: 700;">https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20</a>
+- 📄 Know about my experiences: **[https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20Resume.pdf](https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20Resume.pdf)**
 
 
 ---
