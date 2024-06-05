@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/boyuan0815?tab=repositories](https://github.com/boyuan0815?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS， JavaScript**
+- 💬 Ask me about **HTML, CSS，JavaScript**
 
 - 📫 How to reach me **limboyuanlby@gmail.com**
 
