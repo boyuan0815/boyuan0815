@@ -1,4 +1,4 @@
-<img src="header.png">
+<img src="header">
 <img align="left" alt="Waving" width="250px" src="hihi.gif">
 <div id="header" align="right">
   <h1 style="font-size: 50px;"><b> Hi there, I'm Bo Yuan!</b></h1>
