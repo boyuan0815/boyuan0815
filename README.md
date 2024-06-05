@@ -81,9 +81,10 @@
 ---
 
 ### 🏅 Licences & Certifications
-- **AI Aware** - [Certification](https://ai.gov.my/#/badge?id=U2FsdGVkX19NmZamgEy9mI6Fvxv2b0wuo3Gz2c0vFMAe1Q2u3A4l)
-- **AI Appreciate** - [Certification](https://ai.gov.my/#/badge?id=U2FsdGVkX1p1L2u3SghN7GCqzKRjYSs1L2a3S4hMBINgkLfjO3eYebKHge1Q2u3A4l)
-- **LCCI Level 2 Certificate in Book-keeping & Account** - [Certification](https://media.licdn.com/dms/image/D562DAQHxiZ3jzx_nlg/profile-treasury-document-cover-images_480/0/1717513937423?e=1718193600&v=beta&t=sZO5Rnq6_vPmBZ3yIrOmLrOdEemA8ezEG1vjGumbXpw)
+- <a href="https://ai.gov.my/#/badge?id=U2FsdGVkX19NmZamgEy9mI6Fvxv2b0wuo3Gz2c0vFMAe1Q2u3A4l" target="_blank" rel="noreferrer">AI Aware</a>
+- <a href="https://ai.gov.my/#/badge?id=U2FsdGVkX1p1L2u3SghN7GCqzKRjYSs1L2a3S4hMBINgkLfjO3eYebKHge1Q2u3A4l" target="_blank" rel="noreferrer">AI Appreciate</a>
+- <a href="https://media.licdn.com/dms/image/D562DAQHxiZ3jzx_nlg/profile-treasury-document-cover-images_480/0/1717513937423?e=1718193600&v=beta&t=sZO5Rnq6_vPmBZ3yIrOmLrOdEemA8ezEG1vjGumbXpw" target="_blank" rel="noreferrer">LCCI Level 2 Certificate in Book-keeping & Account</a>
+
 
 ---
 
@@ -104,10 +105,10 @@
 ---
 
 ### 📂 Project Links
-- **Online Student Learning Website** - [Project Link](https://lnkd.in/dTwgDUkQ)
-- **E-commerce Platform Website** - [Project Link](https://lnkd.in/dvekJiAz)
-- **Mobile Video Website** - [Project Link](https://lnkd.in/gSURJDA3)
-- **Personal Landing Page** - [Project Link](https://lnkd.in/gSCgTBh6)
+- <a href="https://lnkd.in/dTwgDUkQ" target="_blank" rel="noreferrer">Online Student Learning Website</a>
+- <a href="https://lnkd.in/dvekJiAz" target="_blank" rel="noreferrer">E-commerce Platform Website</a>
+- <a href="https://lnkd.in/gSURJDA3" target="_blank" rel="noreferrer">Mobile Video Website</a>
+- <a href="https://lnkd.in/gSCgTBh6" target="_blank" rel="noreferrer">Personal Landing Page</a>
 
 ---
 
