@@ -55,10 +55,12 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
+<span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boyuan0815&show_icons=true&locale=en&layout=compact" alt="boyuan0815" />
-</p>
-<p align="center">
+</span>
+<span>
   <img src="https://github-readme-stats.vercel.app/api?username=boyuan0815&show_icons=true&locale=en" alt="boyuan0815" />
+</span>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=boyuan0815&" alt="boyuan0815" />
