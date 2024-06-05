@@ -32,8 +32,8 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/lim-bo-yuan-460b23259" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp&nbsp
-  <a href="https://www.instagram.com/boyuan_0815/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a> &nbsp&nbsp
+  <a href="https://linkedin.com/in/lim-bo-yuan-460b23259" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp
+  <a href="https://www.instagram.com/boyuan_0815/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a> &nbsp
   <a href="https://www.facebook.com/profile.php?id=100067809596511" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
