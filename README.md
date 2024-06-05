@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lim Bo Yuan</h1>
-<h3 align="center">I am a highly motivated computer science student with a passion for software engineering and web development. I am seeking for an internship that provides a professional working environment. (Internship Period: Late July 2024 – October 2024)</h3>
+<h3 align="center">I am a highly motivated computer science student with a passion for software engineering and web development. I am seeking for an internship that provides a professional working environment. <br>(Internship Period: Late July 2024 – October 2024)</h3>
 
 - 🔭 I’m currently working on **UTM AI Hackathon FCRI 2024**
 
