@@ -6,9 +6,9 @@
     <strong>(Internship Period: Late July 2024 – October 2024)</strong>
   </p>
 </div>
+
 ---
-<br>
-<br>
+
 ### 🧑‍💻 About Me
 - 🔭 I’m currently working on **UTM AI Hackathon FCRI 2024**
 - 🌱 I’m currently learning **JavaScript, React**
@@ -17,8 +17,8 @@
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](<a>https://github.com/boyuan0815?tab=repositories</a>)
 - 💬 Ask me about **HTML, CSS, JavaScript**
 - 📫 How to reach me: **limboyuanlby@gmail.com**
-- 📄 Know about my experiences: [My Resume](<a>https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20Resume.pdf</a>)
-- ⚡ Fun fact: **My dream is to become a game developer in miHoYo**
+- 📄 Know about my experiences: [My Resume](<a>https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20
+
 
 ---
 
