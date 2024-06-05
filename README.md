@@ -1,19 +1,10 @@
-<img align="left" alt="Waving" width=250px src="hihi.gif">
+<img align="left" alt="Waving" width="250px" src="hihi.gif">
 <div id="header" align="right">
-  <h1 style="font-size: 100px;"><b> Hi there, I'm Bo Yuan!</b></h1>
-  <div style="line-height: 2.5; font-weight: 400;"> 
-    I am a highly motivated computer science student with a passion for software <br>
-    engineering and web development. <br>
-    I am seeking an internship that provides a professional working environment <br>
-    where I can <br>
-    further develop my extensive experience and knowledge while working dedicatedly <br> 
-    for the company. <br>
-    I am an effective problem solver with excellent communication skills, aiming to contribute <br>
-    my technical <br>
-    skills and drive high-quality results as a web development or full-stack developer intern.<br>
-    
-    (Internship Period: Late July 2024 – October 2024)
-  </div>
+  <h1 style="font-size: 50px;"><b> Hi there, I'm Bo Yuan!</b></h1>
+  <p style="font-size: 18px; line-height: 1.6; font-weight: 400;"> 
+    I am a highly motivated computer science student with a passion for software engineering and web development. I am seeking an internship that provides a professional working environment where I can further develop my extensive experience and knowledge while working dedicatedly for the company. I am an effective problem solver with excellent communication skills, aiming to contribute my technical skills and drive high-quality results as a web development or full-stack developer intern.<br><br>
+    <strong>(Internship Period: Late July 2024 – October 2024)</strong>
+  </p>
 </div>
 ---
 <br>
