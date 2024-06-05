@@ -68,7 +68,7 @@
 
 ### 📑 My Resume
 <div>
-  <a href="https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20Resume.pdf">click me!</a>
+  <a href="https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20Resume.pdf" target="_blank">click me!</a>
 </div>
 
 ---
