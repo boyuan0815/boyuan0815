@@ -25,8 +25,6 @@
   
 - 📫 How to reach me: **limboyuanlby@gmail.com**
   
-- 📄 Know about my experiences: **[https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20Resume.pdf](https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20Resume.pdf)**
-
 
 ---
 
@@ -68,9 +66,24 @@
 
 ---
 
+### 📑 My Resume
+<div>
+  <embed src="https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20Resume.pdf" width="800px" height="2100px" />
+</div>
+
+---
+
 ### 🌟 Achievements
 - 🏆 Dean’s List Award in semester 1 – 3 (October 2022 – Present)
 - 🎓 Malaysian University English Test (MUET) - Band 4
+- 📚 Current CGPA: 4.00
+
+---
+
+### 🏅 Achievements & Certifications
+- **AI Aware** - [Certification](https://ai.gov.my/#/badge?id=U2FsdGVkX19NmZamgEy9mI6Fvxv2b0wuo3Gz2c0vFMAe1Q2u3A4l)
+- **AI Appreciate** - [Certification](https://ai.gov.my/#/badge?id=U2FsdGVkX1p1L2u3SghN7GCqzKRjYSs1L2a3S4hMBINgkLfjO3eYebKHge1Q2u3A4l)
+- **LCCI Level 2 Certificate in Book-keeping & Account** - [Certification](https://media.licdn.com/dms/image/D562DAQHxiZ3jzx_nlg/profile-treasury-document-cover-images_480/0/1717513937423?e=1718193600&v=beta&t=sZO5Rnq6_vPmBZ3yIrOmLrOdEemA8ezEG1vjGumbXpw)
 
 ---
 
@@ -87,6 +100,14 @@
   - Developed a responsive personal website landing page using HTML and CSS.
   - Constructed the website with SEO optimization for better visibility.
   - Utilized Bootstrap and .less file extension for CSS, improving efficiency and maintainability during development.
+
+---
+
+### 📂 Project Links
+- **Online Student Learning Website** - [Project Link](https://lnkd.in/dTwgDUkQ)
+- **E-commerce Platform Website** - [Project Link](https://lnkd.in/dvekJiAz)
+- **Mobile Video Website** - [Project Link](https://lnkd.in/gSURJDA3)
+- **Personal Landing Page** - [Project Link](https://lnkd.in/gSCgTBh6)
 
 ---
 
