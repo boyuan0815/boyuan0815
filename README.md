@@ -121,3 +121,8 @@
 - Ability to work in a fast-paced environment and meet deadlines.
 - Willingness to accept and incorporate feedback.
 
+---
+
+<p align="center">
+  <img src="footer.webp" width="200"/>
+</p>
