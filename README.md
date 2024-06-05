@@ -2,7 +2,7 @@
 <h3 align="center">I am a highly motivated computer science student with a passion for software engineering and web development. I am seeking an internship that provides a professional working environment. <br>(Internship Period: Late July 2024 – October 2024)</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <img src="https://www.pinterest.com/pin/hello-hi-gif-hello-hi-jump-discover-share-gifs--911486412054074136/" width="100"/>
 </p>
 
 ---
