@@ -68,7 +68,7 @@
 
 ### 📑 My Resume
 <div>
-  click me! **[[https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20Resume.pdf](https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20Resume.pdf)**
+  <a href="https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20Resume.pdf">click me!</a>
 </div>
 
 ---
