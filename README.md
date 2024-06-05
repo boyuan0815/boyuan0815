@@ -124,5 +124,5 @@
 ---
 
 <p align="center">
-  <img src="footer.webp" width="200"/>
+  <img src="byebye.gif" width="200"/>
 </p>
