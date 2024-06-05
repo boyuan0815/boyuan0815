@@ -1,7 +1,7 @@
 <img align="left" alt="Waving" width=250px src="hihi.gif">
 <div id="header" align="right">
   <h1 style="font-size: 100px;"><b> Hi there, I'm Bo Yuan!</b></h1>
-  <h3 style="line-height: 5; font-weight: 400;"> 
+  <h3 style="line-height: 1.5; font-weight: 300;"> 
     I am a highly motivated computer science student with a passion for <br>
     software engineering and web development. <br>
     I am seeking an internship that provides a professional working <br>
