@@ -1,12 +1,23 @@
-<h1 align="center">Hi there, I'm Lim Bo Yuan!</h1>
-<h3 align="left">I am a highly motivated computer science student with a passion for software engineering and web development. I am seeking an internship that provides a professional working environment. <br>(Internship Period: Late July 2024 – October 2024)</h3>
-
-<p align="center">
-  <img src="hihi.gif" width="100"/>
-</p>
+<img align="left" alt="Waving" width=250px src="hihi.gif">
+<div id="header" align="right">
+  <h1 style="font-size: 100px;"><b> Hi there, I'm Bo Yuan!</b></h1>
+  <h8> 
+    I am a highly motivated computer science student with a passion for <br>
+    software engineering and web development. <br>
+    I am seeking for an internship that provides a professional working <br>
+    environment where I can further develop my <br>
+    extensive experience and knowledge while working dedicatedly for the company. <br>
+    I am an effective problem solver with excellent communication skills, aiming <br>
+    to contribute my technical skills and drive <br>
+    high-quality results as a web development or full-stack developer intern.<br>
+    
+    (Internship Period: Late July 2024 – October 2024)
+ </h8>
+</div>
 
 ---
-
+<br>
+<br>
 ### 🧑‍💻 About Me
 - 🔭 I’m currently working on **UTM AI Hackathon FCRI 2024**
 - 🌱 I’m currently learning **JavaScript, React**
