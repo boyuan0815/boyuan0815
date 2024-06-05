@@ -68,7 +68,7 @@
 
 ### 📑 My Resume
 <div>
-  <embed src="https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20Resume.pdf" width="800px" height="2100px" />
+  click me! **[https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20Resume.pdf]([https://github.com/boyuan0815?tab=repositories](https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20Resume.pdf))**
 </div>
 
 ---
@@ -80,7 +80,7 @@
 
 ---
 
-### 🏅 Achievements & Certifications
+### 🏅 Licences & Certifications
 - **AI Aware** - [Certification](https://ai.gov.my/#/badge?id=U2FsdGVkX19NmZamgEy9mI6Fvxv2b0wuo3Gz2c0vFMAe1Q2u3A4l)
 - **AI Appreciate** - [Certification](https://ai.gov.my/#/badge?id=U2FsdGVkX1p1L2u3SghN7GCqzKRjYSs1L2a3S4hMBINgkLfjO3eYebKHge1Q2u3A4l)
 - **LCCI Level 2 Certificate in Book-keeping & Account** - [Certification](https://media.licdn.com/dms/image/D562DAQHxiZ3jzx_nlg/profile-treasury-document-cover-images_480/0/1717513937423?e=1718193600&v=beta&t=sZO5Rnq6_vPmBZ3yIrOmLrOdEemA8ezEG1vjGumbXpw)
