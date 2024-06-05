@@ -68,13 +68,6 @@
 
 ---
 
-### 📑 My Resume
-<div>
-  <embed src="https://github.com/boyuan0815/My-Resume/blob/main/Lim%20Bo%20Yuan%20-%20Resume.pdf" width="800px" height="2100px" />
-</div>
-
----
-
 ### 🌟 Achievements
 - 🏆 Dean’s List Award in semester 1 – 3 (October 2022 – Present)
 - 🎓 Malaysian University English Test (MUET) - Band 4
@@ -86,6 +79,10 @@
   - Applied C++ programming language to implement various data structures including linked lists, stacks, and queues.
   - Employed bubble sort for sorting room prices in ascending and descending order.
   - Utilized stack operations (push, pop) for managing room details and queue operations for handling student bookings.
+- **Pusat Kesihatan Universiti (PKU) Health Clinic Digital Database System (January 2024)**
+  - Provided self-service options for students and staff, including online appointment booking, reminders, and mobile access to health records.
+  - Implementing the database using SQL with Data Definition Language (DDL) and Data Manipulation Language (DML) statements.
+  - Normalization techniques are applied to reduce data redundancy, utilizing Oracle Apex to execute SQL statements and manage the database.
 - **Personal Landing Website (May 2024)**
   - Developed a responsive personal website landing page using HTML and CSS.
   - Constructed the website with SEO optimization for better visibility.
@@ -113,7 +110,7 @@
 ---
 
 ### 🌐 Languages
-- **Mandarin:** Proficient
+- **Mandarin:** Native
 - **English:** Proficient
 - **Malay:** Proficient
 
@@ -124,8 +121,3 @@
 - Ability to work in a fast-paced environment and meet deadlines.
 - Willingness to accept and incorporate feedback.
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
-</p>
