@@ -19,7 +19,7 @@
   
 - 🤝 I’m looking for help with **improving my frontend development skills**
   
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](<a>https://github.com/boyuan0815?tab=repositories</a>)
+- 👨‍💻 All of my projects are available at **[https://github.com/boyuan0815?tab=repositories](https://github.com/boyuan0815?tab=repositories)**
   
 - 💬 Ask me about **HTML, CSS, JavaScript**
   
